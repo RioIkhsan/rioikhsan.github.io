@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Rio Ikhsan, lifelong learner.
+IT Business Analyst. exp laner. Lifelong learner.
