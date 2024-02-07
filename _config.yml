@@ -38,11 +38,11 @@ social:
   email: mrikhsankamal@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    https://twitter.com # change to your twitter homepage
-    https://github.com/rioikhsan # change to your github homepage
+    - https://twitter.com # change to your twitter homepage
+    - https://github.com/rioikhsan # change to your github homepage
     # Uncomment below to add more social links
-    https://www.facebook.com/rio.ikhsan
-    https://www.linkedin.com/in/muhammad-rio-ikhsan-kamal-95269016a
+    - https://www.facebook.com/rio.ikhsan
+    - https://www.linkedin.com/in/muhammad-rio-ikhsan-kamal-95269016a
 
 google_site_verification: # fill in to your verification string
 
@@ -196,3 +196,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    
