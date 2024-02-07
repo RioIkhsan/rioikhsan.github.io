@@ -2,7 +2,7 @@
 title: Puasa 2018
 date: 2018-06-09 00:00
 categories: [blog]
-tags: [sinau]
+tags: [nyantri]
 ---
 
 Melihat tanggal di kalender handphone, saya tersadar. 2 pekan sudah kita berpisah dengan bulan penuh berkah, Ramadhan. Tak terasa waktu berlalu begitu cepat. Berasa baru kemarin saya merasakan euphorianya, tiba tiba sudah berlalu saja bulan suci itu.
