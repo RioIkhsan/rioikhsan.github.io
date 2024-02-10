@@ -1,7 +1,7 @@
 ---
-title: Panderman sebelum COVID
+title: Panderman 2020
 date: 2020-03-24 00:00
-categories: [blog]
+categories: [journal]
 tags: [nyantri]
 ---
 
@@ -9,8 +9,7 @@ Sabtu lalu saya diajak kawan SMA saya menghabiskan akhir pekan bersama. Tentunya
 
 Selama perjalanan kami tak terburu buru, sering berhenti, istirahat sambil bercakap cakap ringan. Maklum, sudah lama kami tidak nyangkruk dan saling berbagi cerita. Sesampainya di puncak saya termenung melihat sikap beberapa kawan saya. Mereka bisa dibilang sudah makan asam garam dunia pergunungan, pengalaman mereka mendaki tak perlu diragukan lagi. Biasanya motivasi orang orang mendaki gunung ialah mendapat view indah ketika di puncak. Namun kali ini saya merasa mereka tak terlalu ngebet ngebet amat segera sampai di puncak. Mereka cenderung lebih menikmati perjalanan, suasana alam pegunungan, serta momen kebersamaan kami. Di puncak pun tak terlalu banyak berswafoto, lebih memilih ngobrol sembari nyruput teh panas.
 
-
-Tashid, Manaf, Hanif, Yogi, Saya, Hana, Neza, dan Ulin di Puncak Panderman
+![cemas](assets/img/panderman.jpeg)
 
 Barangkali bagi mereka mendaki gunung tak hanya soal sampai ke puncak. Mereka mencoba menikmati setiap jengkal suasana pegunungan. Menikmati kepleset kepleset di tanah licinnya, kesusahan ngangkat barang bawaan di track terjalnya, tertusuk duri duri tanamannya, hingga menikmati “gangguan” kera dan hewan lainnnya. Bagi mereka sampai puncak memang sebuah kenikmatan, tapi perjalanan menuju ke puncak harusnya juga dinikmati. Hal ini baru bagi saya.
 

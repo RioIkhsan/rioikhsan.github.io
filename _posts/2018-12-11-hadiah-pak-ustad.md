@@ -1,7 +1,7 @@
 ---
 title: Hadiah pak Ustad
 date: 2018-12-11 00:00
-categories: [blog]
+categories: [journal]
 tags: [nyantri]
 ---
 
