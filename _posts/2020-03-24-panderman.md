@@ -1,5 +1,5 @@
 ---
-title: Panderman 2020
+title: Panderman (2020)
 date: 2020-03-24 00:00
 categories: [journal]
 tags: [nyantri]

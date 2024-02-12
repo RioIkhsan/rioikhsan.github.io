@@ -1,5 +1,5 @@
 ---
-title: Hadiah pak Ustad
+title: Hadiah pak Ustad (2018)
 date: 2018-12-11 00:00
 categories: [journal]
 tags: [nyantri]

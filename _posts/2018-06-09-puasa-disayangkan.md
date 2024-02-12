@@ -1,5 +1,5 @@
 ---
-title: Puasa 2018
+title: Puasa (2018)
 date: 2018-06-09 00:00
 categories: [journal]
 tags: [nyantri]
