@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-IT Business Analyst. exp laner. Lifelong learner.
+Product Management. IT Business Analyst. Exp Laner. Lifelong Learner. Reach me at my [Linkedin](https://www.linkedin.com/in/rioikhsan/) profile.
